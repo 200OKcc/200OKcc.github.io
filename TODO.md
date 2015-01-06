@@ -10,7 +10,6 @@ To be done / Near future:
 =========================
 
 * Sticky footer :)
-* Rest of the photos for the team
 * Better .container look & feel - see PSD
 * Retina-friendly images
 * Responsive layout
